@@ -20,3 +20,5 @@ O vídeo do Zé da Nuvem foi compartilhado em diversas redes sociais, alcançand
 ## 💭 Reflexão
 O desafio de criar algo 'natty' com IA envolveu não apenas a aplicação de tecnologias avançadas, mas também a injeção de personalidade e didática no avatar. O resultado é um recurso que não só informa, mas também engaja e inspira.
 ```
+
+Agora você pode copiar e colar esse texto no README.md do seu repositório no GitHub. Se precisar de mais alguma coisa, estou aqui para ajudar!
