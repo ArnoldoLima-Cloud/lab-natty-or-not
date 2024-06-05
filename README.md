@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+Com certeza! Aqui está a descrição do seu projeto formatada em Markdown:
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Zé da Nuvem: Orientação Virtual para a Navegação na AWS
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"Zé da Nuvem" é um projeto inovador que combina tecnologia de ponta em IA generativa e animação para criar um guia virtual interativo. Este avatar, batizado carinhosamente de Zé da Nuvem, é projetado para compartilhar conhecimentos e dicas valiosas sobre computação em nuvem. No vídeo de estreia, Zé da Nuvem aborda um tópico essencial: a escolha de regiões na AWS, oferecendo insights e orientações para otimizar a utilização dos serviços de nuvem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para dar vida ao Zé da Nuvem, utilizei a plataforma Midjourney para gerar uma imagem detalhada do avatar, baseada em descrições específicas fornecidas por mim. Em seguida, recorri à tecnologia de animação Deepfake (DiD) para animar o avatar, adicionando voz e movimento, resultando em uma experiência de usuário envolvente e educativa.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo criativo começou com a concepção do Zé da Nuvem, um personagem que personifica a sabedoria e a acessibilidade. Após definir suas características visuais através do Midjourney, animei o avatar utilizando a tecnologia DiD, sincronizando a fala com movimentos naturais para criar um vídeo tutorial dinâmico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo do Zé da Nuvem foi compartilhado em diversas redes sociais, alcançando um público amplo interessado em aprender mais sobre a AWS. O feedback positivo reforça o potencial do projeto como uma ferramenta educacional valiosa.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+[Visualize o Projeto Zé da Nuvem](https://studio.d-id.com/share?id=8dda9786a94bd01530943cd48e1909ea&utm_source=copy)
+
+## 💭 Reflexão
+O desafio de criar algo 'natty' com IA envolveu não apenas a aplicação de tecnologias avançadas, mas também a injeção de personalidade e didática no avatar. O resultado é um recurso que não só informa, mas também engaja e inspira.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
